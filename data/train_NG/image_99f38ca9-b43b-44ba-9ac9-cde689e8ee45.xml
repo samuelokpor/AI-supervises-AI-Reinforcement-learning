@@ -1,0 +1,26 @@
+<annotation>
+	<folder>captured_images4_NG</folder>
+	<filename>image_99f38ca9-b43b-44ba-9ac9-cde689e8ee45.jpg</filename>
+	<path>E:\CT-WORK\CT-Project\data\captured_images4_NG\image_99f38ca9-b43b-44ba-9ac9-cde689e8ee45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>390</xmin>
+			<ymin>317</ymin>
+			<xmax>421</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>
